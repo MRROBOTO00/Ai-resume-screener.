@@ -1,0 +1,30 @@
+python
+java
+c++
+javascript
+react
+node
+django
+flask
+sql
+mysql
+postgresql
+aws
+azure
+docker
+kubernetes
+tensorflow
+pytorch
+nlp
+machine learning
+data analysis
+git
+linux
+html
+css
+rest
+api
+keras
+pandas
+numpy
+scikit-learn
